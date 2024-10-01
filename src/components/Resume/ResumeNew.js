@@ -57,7 +57,7 @@ function ResumeNew() {
               <ul className="home-about-social-links">
               <li className="social-icons">
                   <a
-                    href="https://wa.me/9977079639?text=Hello%20I%20came%20across%20your%20portfolio%20and%20would%20like%20to%20connect"
+                    href="https://wa.me/+919977079639?text=Hello%20I%20came%20across%20your%20portfolio%20and%20would%20like%20to%20connect"
                     target="_blank"
                     rel="noreferrer"
                     className="icon-colour  home-social-icons"
