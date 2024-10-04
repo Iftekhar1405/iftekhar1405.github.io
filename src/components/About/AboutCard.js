@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Iftekhar Ahmed </span>
             from <span className="purple"> Chhattisgarh, India.</span>
             <br />
-            I am currently working as a Freelancer and diving into the twch world to learn new things.
+            I am currently working as a Freelancer and diving into the tech world to learn new things.
             <br />
             I have completed my Full Stack Web Development Course at Masai.
             
@@ -32,7 +32,7 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Simplicity is the idea of genius and vice versa"{" "}
+            "Simplification is the idea of genius and vice versa"{" "}
           </p>
           <footer className="blockquote-footer">Iftekhar</footer>
         </blockquote>
